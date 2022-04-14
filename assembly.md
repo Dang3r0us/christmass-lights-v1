@@ -5,7 +5,7 @@ This file contains instructions on how to set up your beadboard for this project
 2. Breadboard
 3. 3 Jumper Cables
 4. 5 Breadbaord Wires
-5. 3 220Ohm Resistors
+5. 2 220Ohm Resistors
 6. 1 Red LED
 7. 1 Green LED
 8. 1 White LED
@@ -20,3 +20,6 @@ This file contains instructions on how to set up your beadboard for this project
 8. Connect a breadboard wire from E5 to F5
 9. Connect the Red LED with the cathode in G5 and the annode in G6
 10. Connect a breadboard wire from H6 to H7
+11. Connect the Green LED with the cathode in G7 and the annode in G8
+12. Connect a resistor from F8 to E8
+13. Connect a jumper wire from D8 to digital pin 11
