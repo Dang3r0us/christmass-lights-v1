@@ -3,6 +3,6 @@ The first project in a three-part series of my first set of breadboard / Ardunio
 
 The Arduino code can be found here: https://github.com/Dang3r0us/christmass-lights-v1/blob/main/Xmas_Lights_v1.ino
 
-Hardware assembly instructions can be found (here). 
+Hardware assembly instructions can be found here: https://github.com/Dang3r0us/christmass-lights-v1/blob/main/assembly.md
 
 Happy breadboarding!!!
