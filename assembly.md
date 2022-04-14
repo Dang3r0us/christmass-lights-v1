@@ -16,3 +16,7 @@ This file contains instructions on how to set up your beadboard for this project
 4. Connect the white LED with the cathode in G3 and the annode in G4
 5. Connect a resistor from F4 to E4
 6. Connect a jumper wire from D4 to digital pin 12
+7. Connect a breadboard wire from the negitive powerbus on the A side to A5
+8. Connect a breadboard wire from E5 to F5
+9. Connect the Red LED with the cathode in G5 and the annode in G6
+10. Connect a breadboard wire from H6 to H7
